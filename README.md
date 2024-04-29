@@ -22,7 +22,7 @@ Switch to the repo folder
 
     cd erpsaas
 
-Install all the dependencies using composer and npm
+Install all the dependencies using composer and npm, if you use Docker in your development environment, follow this [documentation](./Docs/installWithDocker.md)
 
     composer install
     npm install
